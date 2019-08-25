@@ -32,12 +32,12 @@ body {
 	padding-bottom: 30px;
 }
 
-/* p {
+p {
 	font-family: 'Montserrat', sans-serif;
 	line-height: 30px;
 	font-size: 1.3em;
 	font-weight: 400;
-} */
+}
 
 .middle-cont {
 	text-align: center;
@@ -46,10 +46,10 @@ body {
 	margin-bottom: 5%;
 }
 
-/* .middle-p {
+.middle-p {
 	font-size: 1.3em;
 	font-family: 'Montserrat', sans-serif;
-} */
+}
 
 /* .service-section {
 	background-image: linear-gradient(173.2deg, rgba(55, 35, 35, 0.80) 74.1%, rgba(31, 4, 4, 0.70) 70.2%), url("../images/background2.jpg");
