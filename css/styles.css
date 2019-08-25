@@ -67,11 +67,11 @@ p {
 	text-align: center;
 }
 
-/* #bounce {
+ #bounce {
 	animation: bounce 3s infinite;
 	padding-top: 100px;
 	color: #e23e57;
-} */
+}
 
 /* @keyframes bounce {
 	0%, 20%, 50%, 80%, 100% {
