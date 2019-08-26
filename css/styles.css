@@ -9,9 +9,9 @@ body {
 	height: 700px;
 	text-align: center;
 }
-.con1 img
-{
-  padding-bottom: 2%;
+
+.con1 img {
+	padding-bottom: 2%;
 }
 
 .con1 {
@@ -21,14 +21,13 @@ body {
 
 .con1 p {
 	font-size: 1.5em;
-  padding-top: 1%;
+	padding-top: 1%;
 }
 
 .header1 {
 	font-family: 'Ubuntu', sans-serif;
 	padding-top: 10px;
 	font-size: 3.5em;
-
 }
 
 .header2 {
@@ -194,10 +193,11 @@ p {
 	margin-left: 20%;
 }
 
-.bottom-section {
+.contacts {
+	background-image: url("../images/background1.jpg");
+	background-size: cover;
 	margin-top: 5%;
-	background-image:   linear-gradient(173.2deg, rgba(55, 35, 35, 0.80) 74.1%, rgba(31, 4, 4, 0.52) 70.2%),url("../images/background1.jpg");
-  background-color: black;
+
 }
 
 .btn-success {
@@ -207,6 +207,12 @@ p {
 .social {
 	margin-top: 2%;
 }
-footer{
-  	font-family: 'Montserrat', sans-serif;
+
+footer {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.form-control{
+	background-color: transparent !important;
+	color: #ffff !important;
 }
